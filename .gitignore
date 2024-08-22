@@ -1,0 +1,10 @@
+/.idea/
+/doc/.idea/
+/doc/node_modules/
+/doc/api/
+/gs1/.idea/
+/gs1/dist/
+/gs1/node_modules/
+/utility/.idea/
+/utility/dist/
+/utility/node_modules/

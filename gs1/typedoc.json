@@ -1,0 +1,22 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "sourceLinkExternal": true,
+  "groupOrder": [
+    "Enumerations",
+    "Type Aliases",
+    "Interfaces",
+    "Classes",
+    "Variables",
+    "Enumeration Members",
+    "Properties",
+    "Constructors",
+    "Accessors",
+    "Methods",
+    "*"
+  ],
+  "sort": [],
+  "name": "GS1",
+  "entryPoints": [
+    "src/index.ts"
+  ]
+}

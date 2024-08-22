@@ -1,0 +1,16 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "plugin": [
+    "typedoc-github-theme"
+  ],
+  "name": "Toolkit",
+  "entryPoints": [
+    "../utility",
+    "../gs1"
+  ],
+  "entryPointStrategy": "packages",
+  "includeVersion": true,
+  "out": "api",
+  "theme": "typedoc-github-theme",
+  "sourceLinkExternal": true
+}
